@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cjeremy-dev
+# 👋 Hi, I’m Cjeremy
 - 👀 I’m interested in Python, PHP, etc.
 - 🌱 I’m currently learning Mathematics.
 - 💞️ I’m looking to collaborate on something, you know...
